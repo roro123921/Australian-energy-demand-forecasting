@@ -7,9 +7,13 @@ This project investigates electricity demand patterns across Australia's east co
 
 The objective was to identify key factors influencing electricity demand and develop a machine learning model capable of forecasting demand.
 
-Completed as part of ADS1002 Data Challenges 2 at Monash University.
-
 Project Type: Group project completed as part of ADS1002 Data Challenges 2 at Monash University.
+
+## Business Problem
+
+Accurately forecasting electricity demand is important for energy providers to optimise resource allocation, plan infrastructure needs, and manage periods of high demand.
+
+This project explores how weather and temporal factors influence electricity consumption and uses machine learning to predict future demand patterns.
 
 ## Dataset
 
