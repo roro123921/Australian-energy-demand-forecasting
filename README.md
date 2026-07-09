@@ -1,4 +1,4 @@
-# ⚡ Australian Energy Demand Forecasting
+⚡ Australian Energy Demand Forecasting
 
 Machine learning project analysing how weather and temporal factors influence electricity demand across Australia's National Electricity Market using 20 years of historical data.
 
