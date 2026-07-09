@@ -59,6 +59,7 @@ This project investigates how weather and time-based factors affect electricity 
 - Engineered temporal features
 - Trained a **Random Forest Regressor**
 - Evaluated model performance using **R², RMSE and MAE**
+- Peformed Out-of-Sample testing on future data
 
 ---
 
