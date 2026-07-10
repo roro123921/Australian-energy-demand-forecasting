@@ -4,7 +4,7 @@ Machine learning project analysing how weather and temporal factors influence el
 
 ---
 
-## 📌 Overview
+## Overview
 
 Electricity demand changes throughout the day and is strongly influenced by weather conditions. During periods of extreme heat or cold, demand increases as households and businesses rely more heavily on air conditioning and heating.
 
@@ -14,7 +14,7 @@ This project combines electricity demand data from the **Australian Energy Marke
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Accurate electricity demand forecasting helps energy providers:
 
@@ -35,7 +35,7 @@ This project investigates how weather and time-based factors affect electricity 
 
 ---
 
-## 🔧 Project Workflow
+## Project Workflow
 
 ### Data Preparation
 
@@ -63,7 +63,7 @@ This project investigates how weather and time-based factors affect electricity 
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Result |
 |---------|--------|
@@ -80,7 +80,7 @@ This project investigates how weather and time-based factors affect electricity 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -92,7 +92,7 @@ This project investigates how weather and time-based factors affect electricity 
 
 ---
 
-## 👤 My Contribution
+## My Contribution
 
 This project was completed as part of a team of four students for **ADS1002 – Data Challenges 2** at Monash University.
 
