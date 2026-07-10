@@ -24,7 +24,7 @@ The raw electricity demand data was provided as separate CSV files for each stat
 
 Example file naming format:
 
-```
+```text
 DATA200001_NSW1.csv
 DATA200001_VIC1.csv
 DATA200001_QLD1.csv
@@ -130,4 +130,6 @@ Additional temporal features were created during modelling:
 
 ## Notes
 
-The raw datasets contain thousands of individual files across multiple states and years. The processed dataset used for modelling was generated through the data preparation notebook.
+The raw datasets contain thousands of individual files across multiple states and years. Due to repository size limitations, the full raw dataset is not included.
+
+The processed dataset used for modelling was generated through the data preparation notebook.
