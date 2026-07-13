@@ -94,7 +94,7 @@ This project investigates how weather and time-based factors affect electricity 
 
 ## My Contribution
 
-This project was completed as part of a team of four students for **ADS1002 – Data Challenges 2** at Monash University.
+This project was completed as part of a four member team for **ADS1002 – Data Challenges 2** at Monash University.
 
 My contributions included:
 
